@@ -8,7 +8,7 @@ For more information, visit [John Gruber's original specification](https://githu
 
 
 
-## Contents
+### Contents
 
 - [Headings](#headings)
 - [Emphasis](#emphasis)
@@ -24,6 +24,9 @@ For more information, visit [John Gruber's original specification](https://githu
 - [Line Breaks](#line-breaks)
 - [Videos](#videos)
 - [TeX](#tex)
+
+
+
 
 
 <h3 id="headings">Headings</h3>
