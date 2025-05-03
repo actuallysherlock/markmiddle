@@ -140,6 +140,7 @@ Sometimes, example.com works too (this behavior may differ depending on the rend
 
 
 <h3 id="lists">Lists</h3>
+
 > [!NOTE]
 > An interpunct ("·") has been used to convey the concept of a space (" ") in some examples to ensure clarity
 
@@ -190,6 +191,7 @@ Sometimes, example.com works too (this behavior may differ depending on the rend
 
 
 <h3 id="blockquotes">Blockquotes</h3>
+
 > [!NOTE]
 > Blockquote styling is not part of the original Markdown spec. However, they're supported in **GitHub Flavored Markdown (GFM)**
 
@@ -267,7 +269,7 @@ console.log(variable)
 ```
 
 ```
-Mo language is specified here, so no syntax highlighting (varies based on renderer). But hey, let's still add a <em>tag</em> because why not.
+Mo language is specified here, so no syntax highlighting (varies based on renderer). But hey, let's still add a <em>tag</em> because why not
 ```
 ````
 
@@ -275,7 +277,8 @@ Mo language is specified here, so no syntax highlighting (varies based on render
 
 
 
-<h3 id="footnotes">footnotes</h1>
+<h3 id="footnotes">Footnotes</h1>
+
 > [!NOTE]
 > Footnotes are not part of the original Markdown spec. However, they're supported in **GitHub Flavored Markdown (GFM)**
 
@@ -286,10 +289,10 @@ Footnotes can also span multiple lines[^2].
 
 You can even name your footnotes for better organization or clarity[^note].
 
-[^1]: This is the source or reference for the note.
-[^2]: To add multiple lines, simply start each new line with 2 spaces.  
-    This makes it easy to create footnotes with more detailed information.
-[^note]: Named footnotes, like this one, will still display with numbers, but they offer easier identification and linking.  
+[^1]: This is the source or reference for the note
+[^2]: To add multiple lines, simply start each new line with 2 spaces
+    This makes it easy to create footnotes with more detailed information
+[^note]: Named footnotes, like this one, will still display with numbers, but they offer easier identification and linking
     Notice the 4-space indentation for the new lines, which is a different syntax option.
 ```
 
@@ -298,6 +301,7 @@ You can even name your footnotes for better organization or clarity[^note].
 
 
 <h3 id="tables">Tables</h1>
+
 > [!NOTE]  
 > Tables are not part of the original Markdown spec. However, they're supported in **GitHub Flavored Markdown (GFM)**
 
@@ -323,9 +327,9 @@ Markdown | Not | Formatted
 
 ```md
 This is the first line in the first paragraph
-This is the second line in the same paragraph, separated with a single new line from the one above
+This is the second line in the same paragraph, separated by a single new line from the one above
 
-This is the first line in the second paragraph, separated with two new line from the previous line of the previous paragraph 
+This is the first line in the second paragraph, separated by two new lines from the previous line of the previous paragraph 
 ```
 
 
@@ -351,6 +355,7 @@ You can also use Markdown to directly embed the links. Keep in mind that this do
 
 
 <h3 id="tex">TeX</h1>
+
 > [!NOTE]
 > TeX math expressions are enclosed using dollar signs ($).
 
